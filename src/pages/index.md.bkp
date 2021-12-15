@@ -1,0 +1,49 @@
+---
+templateKey: index-page
+title: Líderes en soluciones de higiene.
+image: /img/home-jumbotron.jpg
+heading: Líderes en soluciones de higiene.
+subheading: Somos su aliado en higiene, tanto en el hogar como en el trabajo, en Unilimpio nos apasiona brindar bienestar y salud a través de soluciones de higiene.
+mainpitch:
+  title: Porqué Unilimpio
+  description: >
+    En Unilimpio llevamos más de 20 años en el mercado innovando y desarrollando soluciones de higiene institucionales. Somos fabricantes certificados de productos químicos especializados, así como de productos de papel tissue. Trabajamos con materias primas de primera calidad y última generación, seguras para el usuario asi como para el medio ambiente, y somos pioneros en el desarrollo de producos amigables con el medio ambiente, biodegradables y eco-eficientes.
+description: >-
+  Contamos con un portafolio especialmente diseñado para las necesaidades de cada industria. NUestros asesores conocen las necesidades de cada sector y le pordrán asesorar con el portafolio adecuado de productos y servicios para su negocio.  
+intro:
+  blurbs:
+    - image: /img/coffee.png
+      text: >
+        Confiabilidad
+    - image: /img/coffee-gear.png
+      text: >
+        Disponibilidad
+    - image: /img/tutorials.png
+      text: >
+        Calidad garantizada
+    - image: /img/meeting-space.png
+      text: >
+        Capacitación
+  heading: What we offer
+  description: >
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
+main:
+  heading: Great coffee with no compromises
+  description: >
+    We hold our coffee to the highest standards from the shrub to the cup.
+    That’s why we’re meticulous and transparent about each step of the coffee’s
+    journey. We personally visit each farm to make sure the conditions are
+    optimal for the plants, farmers and the local environment.
+  image1:
+    alt: A close-up of a paper filter filled with ground coffee
+    image: /img/products-grid3.jpg
+  image2:
+    alt: A green cup of a coffee on a wooden table
+    image: /img/products-grid2.jpg
+  image3:
+    alt: Coffee beans
+    image: /img/products-grid1.jpg
+---
