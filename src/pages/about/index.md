@@ -4,7 +4,7 @@ path: /about
 title: Acerca de Unilimpio
 ---
 ### Historia
-Somos una empresa con un trayectoria de másde 30 años en el mercado institucional.
+Somos una empresa con un trayectoria de más de 30 años en el mercado institucional.
 
 ### Nuestra cultura corporativa
 Nuestra cultura corporativa se basa en valores como la honestidad y el respeto, asi como la satisfacción del cliente y la calidad como nuestro principal objetivo. 
